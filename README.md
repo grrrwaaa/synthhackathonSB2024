@@ -28,8 +28,8 @@ Do I need prior experience? This is an inclusive event that invites participants
 
 **Prizes.** Although this is not a contest, some truly amazing companies offered to give away their products to participants, among all the hackathons happening around the world. Here are the prizes:
 
-→ 15 participants will receive lifetime licence to Cycling74`s Max & RNBO
-→ 3 participants will receive a licence to Arturia’s _FX Collection
-→ 2 selected projects will present at Superbooth Berlin in May 2023
+- 15 participants will receive lifetime licence to Cycling74`s Max & RNBO
+- 3 participants will receive a licence to Arturia’s _FX Collection
+- 2 selected projects will present at Superbooth Berlin in May 2023
 
 All participants will also receive a PDF copy of the classic but long out of print book "Electronic Music" by Allen Strange, recently [republished through the efforts of Jason Nolan](https://www.kickstarter.com/projects/jasonnolan/allen-stranges-electronic-music). 
