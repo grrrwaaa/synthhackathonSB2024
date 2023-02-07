@@ -10,7 +10,9 @@
 
 We are hosting a local synthesizer design hackathon hosted by MAT, UCSB and SBCAST. It is part of an international project sponsored by [Synthux Academy](https://www.synthux.academy), [Electro Smith](https://www.electro-smith.com), [Cycling`74](https://cycling74.com), and [Arturia](https://www.arturia.com/?gclid=CjwKCAiAioifBhAXEiwApzCztux6GyLSWwjfZP6dyDkH2szYwakcfsUeglHFjZN-qWaX-ZYkZYHA4BoCknkQAvD_BwE) with many universities and institutions around the world taking part through January and February. 
 
-Participants make anything from sound art devices to interactive installations to musical instruments, but really the program is open-ended. The only ground rule is that projects must be connected to the theme and one of the prompts provided on the first day.
+**Build an experimental synth instrument, sound art or experience involving sound**
+
+Participants make anything from sound art devices to interactive installations to musical instruments or sculptures, but really the program is open-ended. The only ground rule is that projects must be connected to the theme and one of the prompts provided on the first day.
 
 [Examples of projects from the 2022 event](https://www.synthux.academy/events/hackathon-2022) 
 
@@ -18,7 +20,7 @@ Participants make anything from sound art devices to interactive installations t
 
 Do I need prior experience? This is an inclusive event that invites participants in any age and background. If you’re interested in sound and design you can join! To make it easier we suggest forming small teams.
 
-**What tools and parts are available?** Thanks to MAT, we have a pool of essential components an interesting sensors to build the projects. We also have five Electro Smith [Daisy](https://www.electro-smith.com/daisy/daisy) microcontrollers, which can be programmed using C++, Max/MSP's gen~, or Pure Data. We'll be giving an introductory session about the Max/MSP gen~ workflow on the first day. 
+**What tools and parts are available?** Thanks to MAT, we have a pool of essential components an interesting sensors to build the projects. We also have five Electro Smith [Daisy](https://www.electro-smith.com/daisy/daisy) microcontrollers, which can be programmed using C++, Max/MSP's gen~, or Pure Data. We'll be giving an introductory session about the Max/MSP gen~ workflow on the first day. We may also have Teensy microcontrollers. 
 
 **What will happen?** It is a 4-day affair with a modest budget for lunch. You will receive a theme and a set of prompts to choose from on the first day. We can't tell you what they are before the event, but... we like them and it is all very MAT. 
 
