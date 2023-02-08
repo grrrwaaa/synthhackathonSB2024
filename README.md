@@ -20,7 +20,7 @@ Participants make anything from sound art devices to interactive installations t
 
 Do I need prior experience? This is an inclusive event that invites participants in any age and background. If you’re interested in sound and design you can join! To make it easier we suggest forming small teams.
 
-**What tools and parts are available?** Thanks to MAT, we have a pool of essential components an interesting sensors to build the projects. We also have five Electro Smith [Daisy](https://www.electro-smith.com/daisy/daisy) microcontrollers, which can be programmed using C++, Max/MSP's gen~, or Pure Data. We'll be giving an introductory session about the Max/MSP gen~ workflow on the first day. We may also have Teensy microcontrollers. 
+**What tools and parts are available?** Thanks to MAT, we have a pool of essential components an interesting sensors to build the projects. We also have five Electro Smith [Daisy](https://www.electro-smith.com/daisy/daisy) microcontrollers, which can be programmed using C++, Max/MSP's gen~, or Pure Data. We'll be giving an introductory session about [the Max/MSP gen~ workflow](https://github.com/electro-smith/oopsy) on the first day. We may also have Teensy microcontrollers. 
 
 **What will happen?** It is a 4-day affair with a modest budget for lunch. You will receive a theme and a set of prompts to choose from on the first day. We can't tell you what they are before the event, but... we like them and it is all very MAT. 
 
@@ -32,6 +32,8 @@ Do I need prior experience? This is an inclusive event that invites participants
 Launched by [Synthux Academy](https://www.synthux.academy), the International Synth Design Hackathon is a global event hosted by 17 academies, where students and researchers of music technology, engineering, computer science, design and art, design interactive sound experiences over a 4-day sprint in January or February 2023. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1QPyhQUdVXU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![youtube](https://img.youtube.com/vi/1QPyhQUdVXU/0.jpg)](https://www.youtube.com/watch?v=1QPyhQUdVXU)
 
 **Prizes.** Although this is not a contest, some truly amazing companies offered to give away their products to participants, among all the hackathons happening around the world. Here are the prizes:
 
