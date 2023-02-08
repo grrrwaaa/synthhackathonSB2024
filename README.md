@@ -31,8 +31,6 @@ Do I need prior experience? This is an inclusive event that invites participants
 **What is the SynthUX hackathon?**
 Launched by [Synthux Academy](https://www.synthux.academy), the International Synth Design Hackathon is a global event hosted by 17 academies, where students and researchers of music technology, engineering, computer science, design and art, design interactive sound experiences over a 4-day sprint in January or February 2023. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1QPyhQUdVXU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 [![youtube](https://img.youtube.com/vi/1QPyhQUdVXU/0.jpg)](https://www.youtube.com/watch?v=1QPyhQUdVXU)
 
 **Prizes.** Although this is not a contest, some truly amazing companies offered to give away their products to participants, among all the hackathons happening around the world. Here are the prizes:
