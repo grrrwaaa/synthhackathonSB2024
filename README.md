@@ -8,7 +8,9 @@
 
 **Hosts:** Karl Yerkes, Graham Wakefield
 
-We are hosting a local synthesizer design hackathon hosted by MAT, UCSB and SBCAST. It is part of an international project sponsored by [Synthux Academy](https://www.synthux.academy), [Electro Smith](https://www.electro-smith.com), [Cycling`74](https://cycling74.com), and [Arturia](https://www.arturia.com/?gclid=CjwKCAiAioifBhAXEiwApzCztux6GyLSWwjfZP6dyDkH2szYwakcfsUeglHFjZN-qWaX-ZYkZYHA4BoCknkQAvD_BwE) with many universities and institutions around the world taking part through January and February. 
+We are hosting a local synthesizer design hackathon hosted by MAT, UCSB and SBCAST. It is part of an international project sponsored by [Synthux Academy](https://www.synthux.academy), [Electro Smith](https://www.electro-smith.com), [Cycling`74](https://cycling74.com), and [Arturia](https://www.arturia.com/?gclid=CjwKCAiAioifBhAXEiwApzCztux6GyLSWwjfZP6dyDkH2szYwakcfsUeglHFjZN-qWaX-ZYkZYHA4BoCknkQAvD_BwE) with many universities and institutions around the world taking part through January and February.
+
+(For more info see https://tsemah.notion.site/International-Synth-Design-Hackathon-90930f2fe12f42ae88ada91002b306fd)
 
 **Build an experimental synth instrument, sound art or experience involving sound**
 
@@ -32,6 +34,10 @@ Do I need prior experience? This is an inclusive event that invites participants
 Launched by [Synthux Academy](https://www.synthux.academy), the International Synth Design Hackathon is a global event hosted by 17 academies, where students and researchers of music technology, engineering, computer science, design and art, design interactive sound experiences over a 4-day sprint in January or February 2023. 
 
 [![youtube](https://img.youtube.com/vi/1QPyhQUdVXU/0.jpg)](https://www.youtube.com/watch?v=1QPyhQUdVXU)
+
+Video from 2022:
+
+[![youtube](https://img.youtube.com/vi/MNLd1e4OR3s/0.jpg)](https://www.youtube.com/watch?v=MNLd1e4OR3s)
 
 **Prizes.** Although this is not a contest, some truly amazing companies offered to give away their products to participants, among all the hackathons happening around the world. Here are the prizes:
 
