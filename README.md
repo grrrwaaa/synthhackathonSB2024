@@ -1,5 +1,7 @@
 # Synthesizer Design Hackathon - Santa Barbara 2023
 
+![photo](20230217_120009.jpg)
+
 **Dates:** February 17-20 (Friday-Monday)
 
 **Time:** 10am til afternoon
